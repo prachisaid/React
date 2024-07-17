@@ -1,1 +1,1 @@
-React project folders
+React project folders.
